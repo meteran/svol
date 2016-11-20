@@ -1,0 +1,1 @@
+# Program to setting volume with amixer and to sending notifications with notify-send
